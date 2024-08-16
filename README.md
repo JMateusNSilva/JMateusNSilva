@@ -1,4 +1,4 @@
-##A little about me:
+## A little about me:
 
 I have a Bachalor's and Master's degree in Physics by Rio de Janeiro State University - UERJ. At this moment, I've been working theoretically with crystalline material undergoing different intensity of magnetic fields to describe its magnetic and thermal properties. Forward, I'm using a model Hamiltonian described by Zeeman interactions taked from Hund's rules, change interactions in the mean field approximation and crystal fields interactions in the point-charge approximation.
 
